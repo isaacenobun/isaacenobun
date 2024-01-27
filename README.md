@@ -3,8 +3,8 @@
 # 💫 About Me:
 👨🏽‍💻 Backend Developer with an interest in Machine Learning<br>
 🎓 Studied Mechanical Engineering at the University of Ibadan, Nigeria<br>
-🎥 I create advanced motion designs [here](https://bit.ly/IsaacPort) <br>
-📚 Currently learning Cloud computing with on [Coursera](https://www.coursera.org/learn/meta-cloud-computing)<br>
+🎥 During my downtimes, I create advanced motion designs [here](https://bit.ly/IsaacPort) <br>
+📚 Currently learning Cloud computing on [Coursera](https://www.coursera.org/learn/meta-cloud-computing)<br>
 
 
 ## 🌐 Socials:

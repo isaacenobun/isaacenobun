@@ -4,7 +4,7 @@
 👨🏽‍💻 Backend Developer with a strong background in Machine Learning<br>
 🎓 Studied Mechanical Engineering at the University of Ibadan, Nigeria<br>
 🎥 During my downtimes, I create advanced motion designs<br>
-📚 Read about things i build [here]((https://medium.com/@isaacenobun))<br>
+📚 Read about things I build [here](https://medium.com/@isaacenobun)<br>
 
 
 ## 🌐 Socials:
